@@ -11,5 +11,5 @@ Get in touch via email at bennywahyuy@gmail.com, or You can find me on :
 <br />
 <br />
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=bennyuw&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/bennyuwono/profile)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennyuw&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://github.com/bennyuwono/profile)
+[![Stats](https://github-readme-stats.vercel.app/api?username=bennyuwono&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/bennyuwono/profile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennyuwono&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://github.com/bennyuwono/profile)
