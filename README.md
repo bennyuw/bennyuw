@@ -7,7 +7,7 @@ My name is Benny Yuwono and I'm React Developer, I'm from Indonesia living in Su
 
 <!--START_SECTION:stats-->
 ## &#x1f4c8; My GitHub Stats
-<a href="https://github.com/denandrapr">
+<a href="https://github.com/bennyuwono">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bennyuwono&theme=merko&show_icons=true" align="left" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennyuwono&theme=merko&layout=compact" />
 </a>
