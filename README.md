@@ -1,8 +1,14 @@
+# Find me on
+[<img src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:bennywahyuy@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bennyuwono/)
+
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Frontend Web Developer based in Surabaya, Indonesia. With a greatest passion on web technologies like MongoDB, ExpressJS, ReactJS & NodeJS
+My name is Benny Yuwono and I'm React Developer, I'm from Indonesia living in Surabaya. Working with ReactJS, NodeJS
 
-Get in touch via email at bennywahyuy@gmail.com
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennyuwono&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://github.com/bennyuwono/bennyuwono)
-[![Stats](https://github-readme-stats.vercel.app/api?username=bennyuwono&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/bennyuwono/bennyuwono)
+<!--START_SECTION:stats-->
+## &#x1f4c8; My GitHub Stats
+<a href="https://github.com/denandrapr">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bennyuwono&theme=merko&show_icons=true" align="left" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennyuwono&theme=merko&layout=compact" />
+</a>
+<!--END_SECTION:stats-->
